@@ -1,0 +1,20 @@
+sitar (0.9.3-1) unstable; urgency=low
+
+  * new upstream version.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 23 Aug 2005 18:46:24 +0200
+
+sitar (0.8.12-2) unstable; urgency=low
+
+  * bump standards version to 3.6.2.
+  * recompile with gcc-4.0.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 18 Aug 2005 02:05:58 +0200
+
+sitar (0.8.12-1) unstable; urgency=low
+
+  * Initial release.
+  * import knoppix changes. 
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 21 Dec 2004 22:36:59 +0100
+

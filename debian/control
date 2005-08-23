@@ -1,0 +1,19 @@
+Source: sitar
+Section: admin
+Priority: extra
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends-Indep: cdbs, debhelper
+Standards-Version: 3.6.2
+
+Package: sitar
+Architecture: all
+Depends: perl, ${shlibs:Depends}
+Description: System InformaTion At Runtime
+ Prepare system information using perl and binary tools, reading the /proc 
+ filesystem, ...
+ Output is in HTML and LaTeX (planned: XML, SQL), can be converted to PS and 
+ PDF.
+ This program must run as "root".
+ .
+ Comment: Sitar is an ancient Indian instrument as well.
+
